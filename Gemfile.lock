@@ -49,7 +49,10 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+<<<<<<< HEAD
   awesome_print!
+=======
+>>>>>>> 9896dc269c7a70bb888a1791f9d5a2d7014a51dd
   hashie
   octokit (~> 2.0)
   pry
